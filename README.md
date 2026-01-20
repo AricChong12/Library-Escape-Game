@@ -1,2 +1,2 @@
 # Library-Escape-Game
-Computer Organization and Architecture Project
+Computer Organization and Architecture Team Project
